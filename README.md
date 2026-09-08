@@ -15,7 +15,7 @@ I am an undergraduate Mechanical Engineering student at Sinclair College transfe
 
 ###  Highlighted Projects
 
-#### [Distortion Pedal Project](./)
+#### [Distortion Pedal Project](https://github.com/bdhoffman1/distortion-pedal)
 > *CAD enclosure design, circuit modeling, and signal analysis for a custom audio distortion pedal.*
 * **Key Focus:** SolidWorks, DFM, Component Housing, NI Multisim, Signal Testing
 * **Overview:** 
