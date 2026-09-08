@@ -1,26 +1,35 @@
 # Hi, I'm Blake Hoffman
 
-**Mechanical Engineering Student**
+**Mechanical Engineering Student** | Incoming Transfer to Wright State University
 
 ---
 
 ###  About Me
 
-I am an undergraduate mechanical engineering student focused on mechanical design, dynamic systems analysis, and hands-on prototyping. My background combines rigorous analytical problem-solving with practical experience in CAD enclosure design, circuit analysis, and hardware fabrication.
+I am an undergraduate Mechanical Engineering student at Sinclair College transferring to Wright State University in Spring 2027. My engineering focus combines 3D CAD modeling, Design for Manufacturing (DFM), and hands-on electrical and system prototyping.
 
-*  **Education:** Mechanical Engineering Undergraduate
-*  **Engineering Toolkit:** SolidWorks, CAD Modeling, MATLAB, Python, Circuit Simulation
+*  **Education:** A.S. in Engineering Science (Sinclair) | B.S. in Mechanical Engineering (Wright State, Spring 2027)
+*  **Engineering Toolkit:** SolidWorks, MATLAB, PTC MathCAD, NI Multisim, 3D Printing, PCB Soldering
 
 ---
 
 ###  Highlighted Projects
 
-#### [Analog Audio Distortion Circuit & Custom Enclosure](./)
-> *Mechanical design, circuit simulation, and hardware prototyping of a custom guitar distortion pedal with a 3D-modeled enclosure.*
-* **Key Focus:** CAD Enclosure Design, Physical Prototyping, Circuit Analysis, SPICE Simulation
+#### [Distortion Pedal Project](./)
+> *CAD enclosure design, circuit modeling, and signal analysis for a custom audio distortion pedal.*
+* **Key Focus:** SolidWorks, DFM, Component Housing, NI Multisim, Signal Testing
 * **Overview:** 
-  * Modeled a custom pedal enclosure in SolidWorks, factoring in component clearances, jack placement, switch tolerances, and ergonomics for manufacturing.
-  * Designed input buffer, non-inverting gain, and diode-clipping stages; analyzed frequency response and total harmonic distortion (THD).
+  * Designed a custom pedal enclosure from scratch in SolidWorks featuring extruded sliding channels for a clear acrylic viewing window and precise mounting cutouts.
+  * Generated fully dimensioned ANSI-standard mechanical drawings for 3D printing and managed geometric tolerances for PCB fitment.
+  * Modeled an NPN transistor gain stage and diode clipping network in NI Multisim; verified signal saturation and harmonic distortion using an oscilloscope and function generator.
+
+#### [Interdisciplinary Rover Project](./)
+> *CAD assembly optimization and component redesign for student organization rover development.*
+* **Key Focus:** SolidWorks Assemblies, Design for Manufacturing (DFM), 3D Printing, Team Collaboration
+* **Overview:** 
+  * Modified active SolidWorks assemblies to streamline manufacturing and reduce physical assembly time.
+  * Redesigned rover structural components to simplify 3D printing parameters while preserving internal component clearances.
+  * Collaborated across discipline lines to update assembly constraints and align mechanical modifications with electrical requirements.
 
 ---
 
@@ -28,13 +37,13 @@ I am an undergraduate mechanical engineering student focused on mechanical desig
 
 | Domain | Skills & Tools |
 | :--- | :--- |
-| **Mechanical Design & CAD** | SolidWorks, FreeCAD, Enclosure Design, Component Packaging, Tolerancing |
-| **Analysis & Computation** | Kinematics & Dynamics, Statics, Differential Equations, Linear Algebra, MATLAB |
-| **Software & Electronics** | Circuit Simulation, Hardware Prototyping, Python, C/C++, Git/GitHub |
+| **CAD & Mechanical Design** | SolidWorks, DFM, ANSI Technical Drawings, Tolerancing, 3D Printing |
+| **Analysis & Modeling** | MATLAB, PTC MathCAD, Kinematics & Statics, Dynamics, Differential Equations |
+| **Electronics & Testing** | NI Multisim, PCB Soldering, Oscilloscopes, Multimeters, Function Generators |
 
 ---
 
 ###  Connect With Me
 
-* **LinkedIn:** https://www.linkedin.com/in/blake-hoffman-8117212b1/
 * **Email:** bdhoffman2025@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/blake-hoffman-8117212b1/
