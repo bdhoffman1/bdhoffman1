@@ -1,1 +1,54 @@
+# Custom Analog Audio Distortion Pedal & Enclosure
 
+A custom analog audio distortion pedal featuring an NPN transistor gain stage, diode clipping network, and a custom 3D-modeled SolidWorks enclosure. This project showcases the full product lifecycle from circuit simulation and CAD tolerancing to physical assembly and signal analysis.
+
+---
+
+## 🛠️ Key Technical Highlights
+
+* **CAD & Mechanical Design:** Modeled a custom enclosure in SolidWorks featuring extruded sliding channels for an acrylic viewing window and precision cutouts for ¼" audio jacks and control pots[cite: 1].
+* **Manufacturing & Tolerancing:** Drafted fully dimensioned ANSI-standard mechanical drawings to manage geometric tolerances for 3D printing and internal PCB fitment[cite: 1].
+* **Circuit Simulation:** Designed and simulated the NPN transistor gain stage and soft-clipping diode network in NI Multisim[cite: 1].
+* **Hardware Validation:** Evaluated harmonic distortion across audio frequency ranges using a function generator and digital storage oscilloscope[cite: 1].
+
+---
+
+## 📐 Mechanical Design & Enclosure (SolidWorks)
+
+The enclosure was designed from the ground up in SolidWorks with Design for Manufacturing (DFM) and assembly constraints in mind[cite: 1]:
+
+* **Acrylic Viewing Window:** Designed extruded sliding channels into the main housing body to allow a clear acrylic sheet to slide into place without requiring extra fasteners[cite: 1].
+* **Interference & Clearance Fit:** Calculated spatial clearances and geometric tolerances for internal mounting cutouts, audio jacks, switches, and PCB dimensions[cite: 1].
+* **Technical Drawings:** Created ANSI-standard fully dimensioned drawings to drive rapid 3D printing iterations[cite: 1].
+
+*(Tip: Insert a rendered CAD screenshot or technical drawing image here)*
+
+---
+
+## ⚡ Circuit Design & Multisim Analysis
+
+The pedal circuit consists of an input buffer, NPN transistor amplifier stage, and diode clipping network[cite: 1]:
+
+1. **Multisim Modeling:** Performed AC sweep and transient analysis in NI Multisim to evaluate frequency response and identify clipping thresholds[cite: 1].
+2. **Signal Saturation:** Selected specific diode configurations to achieve controlled soft-clipping and desired harmonic saturation[cite: 1].
+
+*(Tip: Insert a screenshot of your NI Multisim schematic or AC sweep plot here)*
+
+---
+
+## 🔬 Hardware Testing & Signal Verification
+
+Once assembled on a breadboard/PCB, the physical circuit was tested using standard bench electronics[cite: 1]:
+
+* **Function Generator:** Swept input sine waves through audio frequencies ($20\text{ Hz} - 20\text{ kHz}$)[cite: 1].
+* **Oscilloscope Waveform Capture:** Monitored signal flattening at the output stage to verify diode clipping behavior against Multisim simulations[cite: 1].
+
+*(Tip: Insert a photo of your oscilloscope screen showing the clipped waveform or your physical breadboard setup)*
+
+---
+
+## 🧰 Tools & Technologies Used
+
+* **CAD / Modeling:** SolidWorks, ANSI Technical Drawings, 3D Printing (FDM)[cite: 1]
+* **Circuit Analysis:** NI Multisim, SPICE Simulation[cite: 1]
+* **Bench Equipment:** Digital Storage Oscilloscope, Function Generator, Multimeter, PCB Soldering[cite: 1]
