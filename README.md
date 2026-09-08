@@ -9,7 +9,7 @@
 I am an undergraduate Mechanical Engineering student at Sinclair College transferring to Wright State University in Spring 2027. My engineering focus combines 3D CAD modeling, Design for Manufacturing (DFM), and hands-on electrical and system prototyping.
 
 *  **Education:** A.S. in Engineering Science (Sinclair) | B.S. in Mechanical Engineering (Wright State, Spring 2027)
-*  **Engineering Toolkit:** SolidWorks, MATLAB, PTC MathCAD, NI Multisim, 3D Printing, PCB Soldering
+*  **Technical Skills:** SolidWorks, MATLAB, PTC MathCAD, NI Multisim, 3D Printing, PCB Soldering, Python, Git/Github
 
 ---
 
