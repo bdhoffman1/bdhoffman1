@@ -23,7 +23,7 @@ I am an undergraduate Mechanical Engineering student at Sinclair College transfe
   * Generated fully dimensioned ANSI-standard mechanical drawings for 3D printing and managed geometric tolerances for PCB fitment.
   * Modeled an NPN transistor gain stage and diode clipping network in NI Multisim; verified signal saturation and harmonic distortion using an oscilloscope and function generator.
 
-#### [Interdisciplinary Rover Project](./)
+#### [Interdisciplinary Rover Project](https://github.com/bdhoffman1/rover-project)
 > *CAD assembly optimization and component redesign for student organization rover development.*
 * **Key Focus:** SolidWorks Assemblies, Design for Manufacturing (DFM), 3D Printing, Team Collaboration
 * **Overview:** 
